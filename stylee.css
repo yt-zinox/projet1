@@ -1,0 +1,249 @@
+.textarea {
+    position: fixed;
+    bottom: 8px;
+    right: 130px;
+    top: 600px;
+}
+
+input[type=submit] {
+    position: fixed;
+    bottom: 0px;
+    right: 55px;
+    top: 598px;
+    height: 28px;
+}
+
+.erreurmessage {
+    position: fixed;
+    bottom: 8px;
+    right: 550px;
+    top: 550px;
+}
+
+.pseudomessage {
+    position: fixed;
+    right: 598px;
+}
+
+.accueilmessage input {
+    position: fixed;
+    right: 1100px;
+    top: 90px;
+}
+
+#message {
+    padding-top: 70px;
+    padding-left: 30px;
+}
+
+#pseudo1 {
+    padding-left: 610px;
+    padding-top: 30px;
+}
+
+#pseudo01 {
+    padding-left: 610px;
+    padding-top: 30px;
+}
+
+#all ul > li > a {
+  color: #787878 !important;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#all ul > li > a:hover {
+  color: #ffffff !important;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+}
+
+#all ul li {
+  list-style-type: none;
+  float: left;
+  margin-left: 60px;
+}
+
+#all ul {
+  float: left;
+  font-size: 20px;
+  padding-top: -5px;
+  margin-left: 28%;
+}
+
+#all {
+  height: 60px;
+  width: 100%;
+  position: relative;
+  background-color: #2f2f2f;
+  padding-top: -20px;
+}
+.menu1 img{
+    height: 45px;
+    width: 45px;
+    border-radius: 100%;
+    margin-top: -35px;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.menu1 {
+  padding-top: 15px;
+}
+
+a span {
+  opacity: 0;
+}
+
+.menu1:hover{
+  opacity: 1;
+
+}
+
+.profil-box {
+    position: absolute;
+    width: 140px;
+    height: 50px;
+    background: #fff;
+    right: 60;
+    left: -20;
+    margin-right: 20px;
+    padding-left: -20px;
+    top: 60px;
+    z-index: 100;
+    box-shadow: 0 19px 38px rgba(0,0,0,.3), 0 15px 12px rgba(0,0,0,.22);
+    color: #a0a0a0;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+
+
+.image5 {
+  height: 20px;
+  width: 20px;
+}
+
+.image6 {
+  height: 20px;
+  width: 20px;
+  top: 0;
+  padding-left: 5px;
+
+}
+
+.action-right {
+  cursor: pointer;
+  font-size: 1.1em;
+  float: right;
+  margin-top: 2px;
+  margin-right: -30px;
+}
+
+.image7 {
+  font-size: 14px;
+  padding-top: -10px;
+  position: relative;
+  float: left;
+  padding-right: 0px;
+  right: -1px;
+  top: -51px;
+}
+
+.image8 {
+  font-size: 14px;
+  padding-top: -10px;
+  position: relative;
+  float: left;
+  padding-right: 0px;
+  right: 80px;
+  top: -31px;
+}
+
+.block1 {
+  padding-top: -20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#alla ul > li > a {
+  color: #787878 !important;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#alla ul > li > a:hover {
+  color: #ffffff !important;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+}
+
+#alla ul li {
+  list-style-type: none;
+  float: left;
+  margin-left: 60px;
+}
+
+#alla ul {
+  float: left;
+  font-size: 20px;
+  padding-top: -5px;
+  margin-left: 45%;
+}
+
+#alla {
+  height: 60px;
+  width: 100%;
+  position: relative;
+  background-color: #2f2f2f;
+  padding-top: -20px;
+}
+
+.chat {
+  margin-left: 500px;
+  padding-top: 150px;
+  background-image: url(img3.png);
+  background-repeat: no-repeat ;
+  height: 300px;
+  padding-top: 10px;
+}
+
+.chat a img {
+  margin-left: 173px;
+  padding-top: 10px;
+}
+
+.photoanim2 img {
+  margin-left: 200px;
+  padding-top: -300px;
+}
+
+.chat1 {
+  background-color: transparent;
+  margin-left: 25px;
+  padding-top: -20px;
+}
+
+.pp {
+  padding-top: 140px;
+  padding-right: 490px;
+}

@@ -1,0 +1,33 @@
+
+    position: fixed;
+    bottom: 8px;
+    right: 130px;
+    top: 600px;
+
+
+    position: fixed;
+    bottom: 0px;
+    right: 55px;
+    top: 598px;
+    height: 28px;
+
+.contact1 {
+  width: 100%;
+  min-height: 100%;
+  padding: 15px;
+
+  background: #009bff;
+  background: -webkit-linear-gradient(left, #0072ff, #00c6ff);
+  background: -o-linear-gradient(left, #0072ff, #00c6ff);
+  background: -moz-linear-gradient(left, #0072ff, #00c6ff);
+  background: linear-gradient(left, #0072ff, #00c6ff);
+
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}

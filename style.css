@@ -1,0 +1,144 @@
+.username input:focus {
+	transition: all 0.5s ease;
+	background-color: #A3A3A3;
+	color: #FFFFFF;
+}
+
+.email input:focus {
+	transition: all 0.5s ease;
+	background-color: #A3A3A3;
+	color: #FFFFFF;
+}
+
+.sinscrire button:hover {
+	color: green;
+	border-radius: 150px;
+	transition: all 3s ease;
+	color: white;
+	border: 0;
+	background-color: green;
+	border: 1px solid white;
+}
+
+
+.sinscriree button:hover {
+	color: green;
+	border-radius: 150px;
+	transition: all 3s ease;
+	color: white;
+	border: 0;
+	background-color: green;
+	border: 1px solid white;
+}
+
+.password input:focus {
+	transition: all 0.5s ease;
+	background-color: #A3A3A3;
+	color: #FFFFFF;
+}
+
+.all {
+	position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    border: 0;
+    text-align: center;
+}
+
+.messagemembre {
+	margin: 15px 0 0;
+    color: #b3b3b3;
+    font-size: 15px;
+    left: 5px;
+}
+
+.all .messagemembre a {
+	color: #4CAF50;
+    text-decoration: none;
+    left: 5px;
+}
+
+.all input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 154%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.all button {
+	position: relative;
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #99EA80;
+    width: 160%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    left: -117px;
+    border-radius: 20px;
+}
+
+.alls .messagemembre a {
+	color: #4CAF50;
+    text-decoration: none;
+    left: 5px;
+}
+
+.alls input {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #f2f2f2;
+    width: 154%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+}
+
+.alls button {
+	position: relative;
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #99EA80;
+    width: 160%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+    left: -145px;
+    border-radius: 20px;
+}
+
+.textarea {
+	top: 50px;
+}
+
+.alls {
+	position: relative;
+    z-index: 1;
+    background: #FFFFFF;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 45px;
+    border: 0;
+    text-align: center;
+    top: 50px;
+}
+
+
+body {
+	background: linear-gradient(to left, #76b852, #8DC26F);
+    font-family: "Roboto", sans-serif;
+}
